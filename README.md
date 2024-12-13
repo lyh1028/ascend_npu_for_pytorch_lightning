@@ -19,6 +19,8 @@ This repository is based on the older version of pytorch_lightning 2.4.0, which 
 
 # Usage Example
 
+Replace pytorch_lightning, lightning_fabric directory in your conda env such as "xxx/python3.9/site-packages" with this repository's.
+
 ## Single device
 
 ```python
